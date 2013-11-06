@@ -1,6 +1,6 @@
 {
 	"name": "cwp/cwp-recipe-basic-dev",
-	"description": "CWP basic recipe dev dependencies",
+	"description": "CWP basic recipe dev metapackage",
 	"type": "silverstripe-module",
 	"require": {
 		"phpunit/phpunit": "3.7.*@stable",
