@@ -1,0 +1,16 @@
+{
+	"name": "cwp/cwp-recipe-basic-dev",
+	"description": "CWP basic recipe dev dependencies",
+	"type": "silverstripe-module",
+	"require": {
+		"phpunit/phpunit": "3.7.*@stable",
+		"hafriedlander/phockito": "dev-master"
+	},
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://packages.cwp.govt.nz/"
+		}
+	],
+	"minimum-stability": "dev"
+}
