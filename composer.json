@@ -3,8 +3,7 @@
 	"description": "CWP basic recipe dev metapackage",
 	"type": "silverstripe-module",
 	"require": {
-		"phpunit/phpunit": "3.7.*@stable",
-		"hafriedlander/phockito": "dev-master"
+		"phpunit/phpunit": "3.7.*@stable"
 	},
 	"repositories": [
 		{
