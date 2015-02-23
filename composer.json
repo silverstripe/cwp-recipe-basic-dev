@@ -4,6 +4,7 @@
 	"type": "silverstripe-module",
 	"require": {
 		"phpunit/phpunit": "3.7.*@stable",
+		"symfony/yaml": "~2.6.0",
 		"hafriedlander/silverstripe-phockito": "*"
 	},
 	"repositories": [
