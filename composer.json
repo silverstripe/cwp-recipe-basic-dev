@@ -2,6 +2,7 @@
 	"name": "cwp/cwp-recipe-basic-dev",
 	"description": "CWP basic recipe dev metapackage",
 	"type": "silverstripe-module",
+	"license": "BSD-3-Clause",
 	"keywords": ["silverstripe", "cwp"],
 	"require": {
 		"phpunit/phpunit": "3.7.*@stable",
