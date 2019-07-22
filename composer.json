@@ -5,15 +5,9 @@
 	"license": "BSD-3-Clause",
 	"keywords": ["silverstripe", "cwp"],
 	"require": {
-		"phpunit/phpunit": "3.7.*@stable",
+		"phpunit/phpunit": "^5.7",
 		"symfony/yaml": "~2.6.0",
 		"hafriedlander/silverstripe-phockito": "*"
 	},
-	"repositories": [
-		{
-			"type": "composer",
-			"url": "https://packages.cwp.govt.nz/"
-		}
-	],
 	"minimum-stability": "dev"
 }
